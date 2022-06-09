@@ -1,5 +1,5 @@
-name: 'Git Repo Sync Sqw'
-description: 'Git Repo Sync Sqw enables you to synchronize code to other code management platforms, such as GitLab, etc.'
+name: 'NdroSync'
+description: 'Internal Sync'
 
 branding:
   icon: upload-cloud
